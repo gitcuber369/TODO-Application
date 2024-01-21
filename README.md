@@ -33,7 +33,7 @@ To run the Todo Application, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/arpitchaudhary/todo-app-java-swing.git
+git clone https://github.com/gitcuber369/todo-app-java-swing.git
 ```
 
 2. Open the project in your favorite Java IDE.
