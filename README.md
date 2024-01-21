@@ -71,14 +71,12 @@ If you'd like to contribute to the project, please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-
-Great! Here's the updated "Contact" section in your README with your provided email, GitHub account, and Twitter handle:
-
-Contact
+ ## Contact
 If you have any questions or suggestions, feel free to reach out to Arpit Chaudhary:
 
 Email: arpitchaudhary2003@gmail.com
-GitHub: gitcuber369
+
+GitHub: gitcuber369 
 Twitter: @git_cuber
 Thank you for using the Java Swing Todo Application! If you have any further questions or need additional assistance, feel free to ask.
 
